@@ -3,8 +3,8 @@ subtitle: 폴타는 개발자 ^>^
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dayeon1233.github.io/" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/dayeon1233" # the subpath of your site, e.g. /blog
 
 urls:
     - text: Home
@@ -26,12 +26,12 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo:null
 author: Dayeon
 author_bio: 별이의 개발 성장일기 ^>^
 author_email: "swdy1233@gmail.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
+author_location:null
+author_website_url: ""
 typewrite-text: 안녕하세요 폴타는 개발자 별이입니다.
 
 # Experiences
@@ -72,16 +72,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: null
+github_username:null  
+facebook_username: null
+linkedin_username: nullnull
+behance_username: null
+instagram_username: null
+medium_username: null
+telegram_username: null
+dribbble_username: null
+flickr_username: null
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
