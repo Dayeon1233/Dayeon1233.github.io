@@ -27,12 +27,12 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: 다연
-author_bio: 안녕하세요 폴타는 개발자입니다.
-author_email: "mail@sujaykundu.com"
+author: Dayeon
+author_bio: 별이의 개발 성장일기 ^>^
+author_email: "swdy1233@gmail.com"
 author_location: India
 author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+typewrite-text: 안녕하세요 폴타는 개발자 별이입니다.
 
 # Experiences
 author_work_experiences:
